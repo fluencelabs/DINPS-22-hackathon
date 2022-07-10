@@ -1,13 +1,13 @@
 # DINPS'22 hackathon challenge
 
-[Fluence](https://fluence.network/) is supporting [DINPS'22](https://research.protocol.ai/sites/dinps/programme/) hackathon in July 2022 organized by Protocol Labs academic department. Join the [discord](https://discord.gg/aFHQXnRT) to participate.
+[Fluence](https://fluence.network/) is supportin a hackathon organized within [DINPS'22](https://research.protocol.ai/sites/dinps/programme/) workshop. The workshop is organized by Protocol Labs within a wider conference 42nd IEEE International [Conference on Distributed Computing Systems](https://icdcs2022.icdcs.org/program-at-a-glance/). The hackathon runs through July 2022. Join the [IPFS discord](https://discord.gg/aFHQXnRT) to participate.
 
 ## Prize
 2 best projects using Fluence & Aqua
 $1000 x 2 best projects 
 
 ## Challenge track
-Best use of Fluence and Aqua in your project or DApp. For more details and resources.
+Best use of Fluence and Aqua in your project or DApp.
 
 ## General examples what you can build with Fluence & Aqua
 * decentralize centralized components, bottlenecks and choke-points in your existing web3 DApp
