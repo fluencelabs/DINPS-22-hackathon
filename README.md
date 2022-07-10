@@ -1,7 +1,6 @@
 # DINPS'22 hackathon challenge
 
-Challenge for the DINPS 22 hackathon participants
-[Fluence](https://fluence.network/) is supporting a [DINPS'22](https://research.protocol.ai/sites/dinps/programme/) hackathon in July 2022 organized by Protocol Labs academic department. Join the [discord](https://discord.gg/aFHQXnRT) to participate.
+[Fluence](https://fluence.network/) is supporting [DINPS'22](https://research.protocol.ai/sites/dinps/programme/) hackathon in July 2022 organized by Protocol Labs academic department. Join the [discord](https://discord.gg/aFHQXnRT) to participate.
 
 ## Prize
 2 best projects using Fluence & Aqua
